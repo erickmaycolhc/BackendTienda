@@ -81,4 +81,5 @@ const getLitApi = async (
   };
 
   return response.status(200).json(objResponse);
+
 };
